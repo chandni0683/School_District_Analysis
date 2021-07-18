@@ -10,10 +10,13 @@ The purpose of this analysis is to provide a high-level snapshot of the district
 
 ## Results
 ### How is the district summary affected?
+The district data changed when we removed the ninth grade data for Thomas High School.
 
 <img width="1009" alt="Screen Shot 2021-07-17 at 10 51 17 PM" src="https://user-images.githubusercontent.com/85711507/126055310-952616a3-84a3-493e-b664-ec09049aa012.png">
 
 ### How is the school summary affected?
+As we can see the school summary is affected when we replaced the ninth grade data for Thomas High School with NaN.
+
 <img width="1028" alt="Screen Shot 2021-07-17 at 10 43 51 PM" src="https://user-images.githubusercontent.com/85711507/126055365-73b399c3-3c76-4eec-b0fa-fc973a969b2c.png">
 <img width="1033" alt="Screen Shot 2021-07-17 at 10 41 54 PM" src="https://user-images.githubusercontent.com/85711507/126055368-e41734a4-752f-41e5-b5d2-75e2e0aa8d64.png">
 
